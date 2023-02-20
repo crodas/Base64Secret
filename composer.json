@@ -5,7 +5,7 @@
     "license": "BSD-4-Clause",
     "autoload": {
         "psr-4": {
-            "Base64Secret\\": "src/Base64secret/"
+            "Base64Secret\\": "src/Base64Secret/"
         }
     },
     "authors": [
